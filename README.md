@@ -12,9 +12,8 @@ A smart and conversational travel planner powered by **Next.js**, **LangChain**,
 - 🧳 Generates personalized packing checklists
 - 🏨 Suggests budget-friendly hotels, homestays, or Airbnbs
 - 💰 Automatically calculates a travel budget plan
-- 🚨 Provides local emergency contact info
+- 🚨 Provides emergency contact info
 - 🎒 Supports clothing suggestions based on season
-- 📦 Card-based UI for visual response blocks (weather, hotel, budget, etc.)
 
 ---
 
