@@ -34,41 +34,42 @@ A smart and conversational travel planner powered by **Next.js**, **LangChain**,
 
 ### 1. 📦 Clone the repository
 
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/travel-itinerary-ai.git
 cd travel-itinerary-ai
-\`\`\`
+```
 
 ### 2. 📚 Install dependencies
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 3. 🔐 Create environment variables
 
 Create a `.env.local` file in the root directory and add:
 
-\`\`\`env
+```env
 OPENAI_API_KEY=your-openai-key
 RAPIDAPI_KEY=your-rapidapi-key
+OPENWEATHER_API_KEY=your-openweather-key
 SERPAPI_API_KEY=your-serpapi-key (optional)
-\`\`\`
+```
 
 ### 4. ▶️ Run the development server
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 > The app will be running at `http://localhost:3000`
 
 ### 5. 🏗️ Build for production
 
-\`\`\`bash
+```bash
 npm run build
 npm start
-\`\`\`
+```
 
 
 
@@ -81,8 +82,7 @@ npm start
 5. 💰 Refine budget planning with actual cost data (food, transport, sightseeing)
 6. 🗺️ Add map view for hotels and travel path (optional)
 7. 📄 Export trip plan as a downloadable PDF
-8. 🔗 Add location-based filters (e.g., beach, mountains, offbeat)
-9. 🔔 Add alerts for peak seasons, strikes, monsoon, etc.
+8. 🔔 Add alerts for peak seasons, strikes, monsoon, etc.
 
 ---
 
